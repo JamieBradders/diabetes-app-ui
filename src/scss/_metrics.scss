@@ -1,0 +1,14 @@
+.ig-metrics {
+  background-color: $white;
+  margin: 50px 0;
+  padding: 50px 0;
+
+  &__counter {
+    text-align: center;
+  }
+}
+
+.ig-chart {
+  width: 100%;
+  height: 600px;
+}
